@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 export default function Projects() {
   return (
-    <section className="py-16 space-y-8">
+    <section className="py-16 space-y-8" id="projects">
       <motion.h2
         className="text-3xl font-bold"
         initial={{ opacity: 0, y: 20 }}

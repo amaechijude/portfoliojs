@@ -28,7 +28,7 @@ export default function Hero() {
         and more.
       </p>
 
-      <Link href="/projects">
+      <Link href="#projects">
         <Button size="lg" className="gap-2">
           View Projects
           <ArrowRight className="h-4 w-4" />
